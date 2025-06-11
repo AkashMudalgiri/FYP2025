@@ -31,6 +31,9 @@ Configure the server to run the Flask application as a WSGI application.
 Set up any necessary firewall rules or security measures.
 
 Contributors
+
 Akash C Mudalgiri
+
 Vanshita Tripathi
+
 Manoj HP
